@@ -1,0 +1,10 @@
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\bin\Debug\TestFootprintAPI.exe.config
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\bin\Debug\TestFootprintAPI.exe
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\bin\Debug\TestFootprintAPI.pdb
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\obj\Debug\TestFootprintAPI.exe
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\obj\Debug\TestFootprintAPI.pdb
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\bin\Debug\TestFootprintAPI.exe.manifest
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\bin\Debug\TestFootprintAPI.application
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\obj\Debug\TestFootprintAPI.exe.manifest
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\obj\Debug\TestFootprintAPI.application
+E:\Dev\Interactive\Customer Mobile App\trunk\Interactive\TestFootprintAPI\TestFootprintAPI\obj\Debug\TestFootprintAPI.csprojResolveAssemblyReference.cache
