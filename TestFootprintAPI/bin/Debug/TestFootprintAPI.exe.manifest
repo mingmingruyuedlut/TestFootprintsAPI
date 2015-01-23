@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LEn9A84TcwwaDlhrskrQNN89R2Ejfhjpk1Dh/rlD5eY=</dsig:DigestValue>
+        <dsig:DigestValue>BkcGoxujCpE87qi5LxPFSG3lIAlIz4/SN1LveFRdwrs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="TestFootprintAPI.exe.config" size="1807">
+  <file name="TestFootprintAPI.exe.config" size="1926">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3ZHfovIXzn4iKTlen/ClbiPae325rSrMfwgPKRVgEcY=</dsig:DigestValue>
+      <dsig:DigestValue>zWFzmZ/Wlv8/sfM7CfpeHrILkQ/4GAqT5Wv/onebtfw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
